@@ -1,4 +1,4 @@
 bronson-example
 ===============
 
-An example of Bronson in action
+An example project showing Bronson in action
